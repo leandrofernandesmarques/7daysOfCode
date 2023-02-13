@@ -1,0 +1,41 @@
+.section__depoimentos{
+    display: flex;
+    flex-direction: column;
+    margin: 0 10vw;
+    padding: 4vw 5vw;
+    background-color: var(--vermelho-claro);
+    margin-bottom: 5vw;
+
+}
+.h2__titulo-depoimento{
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    color: var(--vermelho);
+    
+    
+}
+.p__depoimento{
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+    color: var(--azul-marinho);
+    padding: 1em 0;
+}
+.img__avatar{
+    width: 56px;
+    height: 56px;
+    align-self:center;
+    padding-bottom: 1em;
+}
+.p__nome{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: .5em;
+}
+.p__subtitulo{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+.section__estamos-contratando{
+    padding: 4vw 5vw;
+    display: flex;
+    flex-direction: column;    
+}
+.h3__titulo-vagas{
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    text-align: center;
+    background-color: rgb(240, 233, 233);
+    border: 0px solid rgb(197, 146, 146);
+    margin: 0 41vw;
+    padding: .5em;
+    border-radius: 15px;
+}
+
+.h2__chamada-vagas{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--azul-marinho);
+    text-align: center;
+    padding: .5em 0;
+}
+.p__descricao-vagas{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--cinza-escuro);
+    margin-bottom: 2.5em;
+}
+.div__vagas{
+    
+    padding: 3vw 18vw;
+}
+.div__vagas-cargo{
+    border: 1px solid var(--cinza-medio);
+    border-radius: 12px;
+    margin: 2em 0;
+    padding: 1em .7em;    
+}
+.h2__titulo-vagas{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 2em;
+}
+.p__caracteristica{
+    font-size: 16px;
+    font-weight: 500;
+}
+.div__caracteristica{
+    display: flex;
+}
+.p__caracteristica{
+    padding-right: 2em;
+}
+
+

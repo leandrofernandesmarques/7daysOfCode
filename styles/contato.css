@@ -1,0 +1,42 @@
+.h3__contato{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--azul-marinho);
+    text-align: center;
+}
+.p__descricao-20px-400{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-escuro);
+    text-align: center;
+    padding: 2em 0;
+}
+.div__contato{
+    display: flex;
+    justify-content: center;
+}
+.email__contato{
+    border: 1px solid var(--cinza-medio);
+    border-radius: 10px;
+    padding-right: 1em;
+    padding: 1em 10em 1em .5em;    
+}
+.botao__cadastrar{
+    text-decoration: none;
+    margin-left: 1em;
+    border: 1px solid var(--vermelho);
+    background-color: var(--vermelho);
+    color: var(--branco);
+    padding: 1em 1em;
+    border-radius: 10px;
+}
+.copyright{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 2em;
+    color: var(--cinza-escuro);
+    justify-self: center;
+    margin:2em 0 3em 0;
+
+}

@@ -1,0 +1,33 @@
+.header__site{
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    background-color: var(--branco);
+    align-items: center;    
+}
+.div__container{
+    display: flex;
+    align-items: center;    
+}
+.img__logo{
+    width: 27px;
+    height: 27px;
+    margin-right: .5em;    
+}
+.ul__cabecalho{
+    display: flex;    
+}
+.li__item-lista{
+    padding: 0 1em;
+}
+.a__item-link{
+    text-decoration: none;    
+}
+.a__cadastrar{
+    border: 1px solid var(--vermelho);
+    padding: .8em 1em;
+    border-radius: 10px;
+    font-weight: 500;
+    color: var(--branco);
+    background-color: var(--vermelho);
+}

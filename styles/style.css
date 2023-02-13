@@ -1,0 +1,27 @@
+@import url("../styles/header.css");
+@import url(../styles/sobre-nos.css);
+@import url(../styles/vantagens.css);
+@import url(../styles/contrata-se.css);
+@import url(../styles/depoimentos.css);
+@import url(../styles/contato.css);
+
+:root{
+    
+    --branco: #ffffff;
+    --vermelho: #8E2424;
+    --vermelho-claro:#C31919;  
+    --vermelho-claro:rgb(255, 249, 249);  
+    --azul-marinho: #101828;
+    --cinza-escuro: #667085;
+    --cinza-claro: #F9FAFB;
+    --cinza-medio: #EAECF0;
+    --fonte-principal: "Inter";
+    
+    
+}
+body{
+    background-color: var(--branco);
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+}

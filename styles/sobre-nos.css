@@ -1,0 +1,20 @@
+.section__sobre-nos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: var(--branco);
+    padding: 5vw 20vw;
+}
+.h2__titulo{
+    color: var(--vermelho);    
+}
+.h3__chamada{
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--azul-marinho);
+    padding: .8em 0;        
+}
+.p__descricao{
+    font-size: 20px;
+    color: var(--cinza-escuro);
+}
